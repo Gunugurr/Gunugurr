@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Günuğur.
 - 👀 I’m interested in Python and Web Development
-- 🌱 I’m currently learning Machine Learning and Python
+- 🌱 I’m currently learning Machine Learning, Data Science and Python
 - 📫 E-mail: gunugur2000@gmail.com
 
 <!---
